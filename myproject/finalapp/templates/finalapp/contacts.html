@@ -1,0 +1,11 @@
+{% extends 'finalapp/base.html' %}
+
+{% block title %}My contacts{% endblock %}
+
+{% block content %}
+  <h1>My contacts</h1>
+  {% for person in contacts %}
+    <li>{{ person }} e-mail: {{ person.email }}</li>
+  {% endfor %}
+
+{% endblock %}
