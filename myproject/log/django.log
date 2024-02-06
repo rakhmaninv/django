@@ -315,3 +315,14 @@ C:\Users\user\Documents\gb\djangoProject\myproject\finalapp\views.py changed, re
 Watching for file changes with StatReloader
 "GET /contacts HTTP/1.1" 200 437
 "GET /contacts HTTP/1.1" 200 456
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 9369
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+"GET /contacts HTTP/1.1" 200 9479
